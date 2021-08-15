@@ -19,4 +19,4 @@ newspaper3k
 pydub
 pyfiglet
 pytgcalls
-python-ffmpeg
+ffmpeg-python
